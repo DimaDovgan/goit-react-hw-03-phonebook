@@ -1,0 +1,23 @@
+.forma{
+    border: 1px solid black;
+    display:flex;
+    flex-direction: column;
+    width: 400px;
+
+    
+}
+.button{
+    margin: 10px;
+    
+    width: 100px;
+
+}
+.input{
+margin-top: 10px;
+border: 1px solid black;
+margin-left: 10px;
+}
+.label{
+    margin-left: 10px;
+
+}
